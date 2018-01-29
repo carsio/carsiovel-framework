@@ -1,0 +1,16 @@
+{
+    "name": "carsio/carsiovel-framework",
+    "description": "A simple framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carsio Eddyo",
+            "email": "carsio1256@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
